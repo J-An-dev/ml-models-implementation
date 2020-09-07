@@ -1,1 +1,4 @@
 # Ridge Regression
+This scenario analyzes data using the reige regression techniques. The goal of the problem is to predict the miles per gallon a car will get using six quantities (features) about that car. The data is broken into training and testing sets. Each row in both “$X$” files contain six features for a single car (plus a 1 in the 7th dimension) and the same row in the corresponding “$y$” file contains the miles per gallon for that car.
+
+1. Given the ridge regression problem $\mathcal{L} = \lambda \|w\|^2 + \sum^{350}_{i=1} \|y_i - x^T_i W\|^2$, for $\lambda = 0,1,2,...,5000$, solve for $w_{\rm RR}$. (Notice that when $\lambda = 0$, $w_{\rm RR} = w_{\rm LS}$.) In one figure, plot the 7 values in $w_{\rm RR}$ as a function of $df(\lambda)$. 7 curves are labeled by their dimension in $x$.
