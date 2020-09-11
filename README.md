@@ -7,3 +7,8 @@ The collection of machine learning models are:
   2. [Naive Bayes Classifier](/Naive-Bayes-Classifier/Naive-Bayes-Classifier.ipynb)
   3. [k-Nearest-Neighbors Classifier](/k-NN-Classifier/k-NN-Classifier.ipynb)
   4. [Gaussian Process Model for Regression](/Gaussian-Process-Model-for-Regression/Gaussian-Process-Model-for-Regression.ipynb)
+
+- Unsupervised Learning:
+  1. [K-Means](/K-Means/K-Means.ipynb)
+  2. [Expectation–maximization (EM) Algorithm](/EM-Algorithm/EM-Algorithm.ipynb)
+  3. [Matrix Factorization]()
