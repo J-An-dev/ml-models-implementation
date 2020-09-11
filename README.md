@@ -10,5 +10,5 @@ The collection of machine learning models are:
 
 - Unsupervised Learning:
   1. [K-Means](/K-Means/K-Means.ipynb)
-  2. [Expectation–maximization (EM) Algorithm](/EM-Algorithm/EM-Algorithm.ipynb)
+  2. [Expectation–Maximization (EM) Algorithm](/EM-Algorithm/EM-Algorithm.ipynb)
   3. [Matrix Factorization]()
