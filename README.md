@@ -1,5 +1,5 @@
 # Machine Learning Models Implementation
-This repository is a collection of machine learning models implemented using Python. Most of them are built from scratch given the specific use scenario. More detailed algorithms and scenario descriptions/datasets could be found in the subfolder named after each model topic.
+This repository is a collection of machine learning models implemented using Python. Most of them are built from scratch given the specific use scenario by addressing all the mathematics with [NumPy](https://numpy.org/). More detailed algorithms and scenario descriptions/datasets could be found in the subfolder named after each model topic.
 
 The collection of machine learning models are:
 - Supervised Learning:
@@ -11,4 +11,6 @@ The collection of machine learning models are:
 - Unsupervised Learning:
   1. [K-Means](/K-Means/K-Means.ipynb)
   2. [Expectation–Maximization (EM) Algorithm](/EM-Algorithm/EM-Algorithm.ipynb)
-  3. [Matrix Factorization]()
+  3. [Matrix Factorization](/Matrix-Factorization/Matrix-Factorization.ipynb)
+  4. [Markov Chains](/Markov-Chains/Markov-Chains.ipynb)
+  5. [Nonnegative Matrix Factorization](/Nonnegative-Matrix-Factorization/Nonnegative-Matrix-Factorization.ipynb)
